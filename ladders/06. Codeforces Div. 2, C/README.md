@@ -5,8 +5,8 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [ ] Done</li></ul>|1|[Given Length and Sum of Digits...](http://codeforces.com/problemset/problem/489/C)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|2|[Number of Ways](http://codeforces.com/problemset/problem/466/C)|Codeforces|4|
+|<ul><li>- [1] Done</li></ul>|1|[Given Length and Sum of Digits...](http://codeforces.com/problemset/problem/489/C)|Codeforces|1|
+|<ul><li>- [1] Done</li></ul>|2|[Number of Ways](http://codeforces.com/problemset/problem/466/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|3|[Team](http://codeforces.com/problemset/problem/401/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|4|[Exams](http://codeforces.com/problemset/problem/479/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|5|[Boredom](http://codeforces.com/problemset/problem/455/A)|Codeforces|4|
@@ -45,7 +45,7 @@
 |<ul><li>- [ ] Done</li></ul>|38|[Xor-tree](http://codeforces.com/problemset/problem/429/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|39|[LCM Challenge](http://codeforces.com/problemset/problem/235/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|40|[Rational Resistance](http://codeforces.com/problemset/problem/343/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|41|[Points on Line](http://codeforces.com/problemset/problem/251/A)|Codeforces|3|
+|<ul><li>- [1] Done</li></ul>|41|[Points on Line](http://codeforces.com/problemset/problem/251/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|42|[No to Palindromes!](http://codeforces.com/problemset/problem/464/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|43|[Magic Formulas](http://codeforces.com/problemset/problem/424/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|44|[Beautiful Numbers](http://codeforces.com/problemset/problem/300/C)|Codeforces|4|
